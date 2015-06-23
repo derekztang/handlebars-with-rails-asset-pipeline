@@ -1,4 +1,3 @@
-# handlebars-with-rails-asset-pipeline
 
 #Handlebars.js in rails 4.0+ asset pipeline
 
